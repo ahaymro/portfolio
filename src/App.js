@@ -4,8 +4,6 @@ import Footer from "./components/footer/Footer";
 import Intro from "./components/intro/intro";
 import Skills from "./components/skills/Skills";
 import Works from "./components/works/Works";
-
-
 function App() {
   return (
     <div className="App">
@@ -18,5 +16,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
