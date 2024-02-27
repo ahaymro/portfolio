@@ -3,7 +3,6 @@ import './skills.css';
 import UIDesign from '../../assets/ui-design.png';
 import WebDesign from '../../assets/website-design.png';
 import  AppDesign from '../../assets/app-design.png';
-
 function Skills() {
   return (
 <section id="skills">
