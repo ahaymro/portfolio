@@ -34,14 +34,10 @@ font-weight: 100;
 }
 .introName{
 color: yellow;
-
-
 }
 .textpargaph{
 font-size: medium;
 font-weight: 100;
-
-
 }
 .btn{
 background: white;
@@ -49,32 +45,25 @@ margin:1rem  0;
 padding: 0.75rem 1rem;
 border: none;
 border-radius: 2rem;
-
 }
 .btnImg{
 object-fit:cover;
 margin: 0 0.25rem;
 height: 1rem;
-
-
 }
 @media screen and (max-width:840px) {
   .bg{
 right: -10vw;
   }
   .introcontent{
-
     font-size: 10vw;
   }
   .hello{
     font-size: 4.5;
   }
-  
 }
 @media screen and (max-width:480px) {
   .bg{
 right: -20vw;
   }
-  
-  
 }
