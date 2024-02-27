@@ -3,7 +3,6 @@ import './intro.css'
 import bg from '../../assets/image.png'
 import btnImage from '../../assets/hireme.png'
 import {Link} from 'react-scroll';
-
 const Intro = () => {
   return (
   <section id='intro'>
@@ -14,10 +13,8 @@ const Intro = () => {
 <Link> <button className='btn'><img src={btnImage} alt='Hire Me'className='btnImg' />Hire Me</button></Link>
 </div>
 <img src={bg} alt='profile'className='bg'/>
-
   </section>
 
   )
 }
-
 export default Intro
